@@ -1,0 +1,20 @@
+{
+    "name": "mvc.ppp",
+    "description": "MVC",
+    "authors": [
+        {
+            "name": "Andrey Plotnikov",
+            "email": "ua3p@yandex.ru"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "controllers",
+            "Models\\": "models",
+            "Core\\": "core"
+        }
+    }
+}
