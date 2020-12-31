@@ -1,10 +1,4 @@
-<p align="center">
-    <a href="https://github.com/yiisoft" target="_blank">
-        <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
-    </a>
-    <h1 align="center">Модель-Представление-Контроллер на чистом PHP</h1>
-    <br>
-</p>
+<h1 align="center">Модель-Представление-Контроллер на чистом PHP</h1>
 <p>
 Реализован постраничный вывод новостей из таблицы (MySQL) и показ отдельной новости.
 Сортировка новостей - по дате (UNIX TIMESTAMP) в обратном порядке.
